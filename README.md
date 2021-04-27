@@ -8,7 +8,7 @@
 -->
 ### 说明
 
-* 此插件是基于elementUI开发的下拉树组件，使用前需引入elementUI
+* 此插件是基于elementUI开发的下拉树组件
 * 目前不支持单选,暂只支持多选
 
 ### 安装
@@ -58,7 +58,7 @@ lazyLoad|懒加载时触发的事件|node:点击的节点对象，resolve：在�
 getCheckedData|获取选中项的value|value：选中节点的value，code：对应上面的code属性
 getCheckedItem|获取选中节点的对象|data：选中节点的对象，code：对应上面的code属性
 
-# 方法
+### 方法
 
 方法名称|说明|参数
 :-----:|:--:|:--:
