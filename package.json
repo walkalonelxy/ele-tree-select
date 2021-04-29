@@ -1,6 +1,6 @@
 {
   "name": "ele-tree-select",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "private": false,
   "description": "一个基于elementUI的下拉树选择插件",
   "license": "MIT",
