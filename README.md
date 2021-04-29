@@ -6,6 +6,10 @@
  * @Description: 基于elementUI的下拉树组件
  * @FilePath: \test-package\README.md
 -->
+### github
+
+https://github.com/walkalonelxy/ele-tree-select
+
 ### 说明
 
 * 此插件是基于elementUI开发的下拉树组件
